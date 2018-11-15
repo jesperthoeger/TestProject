@@ -15,7 +15,7 @@ namespace TestProject
           : base("Average", 
                 "Average",
               "Compute th Average of Two Numbers",
-              "Category", 
+              "Category 2", 
               "Subcategory")
         {
         }
