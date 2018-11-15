@@ -21,7 +21,7 @@ namespace TestProject
         /// new tabs/panels will automatically be created.
         /// </summary>
         public TestProjectComponent()
-          : base("TestProject", "Nickname",
+          : base("TestProject", "Nickname2",
               "Description",
               "Category", "Subcategory")
         {
